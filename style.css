@@ -86,3 +86,23 @@ button
 {
     font-size: 1.1rem;
 }
+
+
+@media screen and (max-width:400px) {
+
+    .quote
+    {
+        font-size: 1rem;
+    }
+    .creator
+    {
+        font-size: 1rem;
+        font-weight: 800px;
+    }
+    .Quote-container
+    {
+        width: 300px;
+        margin: 30px;
+        padding: 10px;
+    }
+}
